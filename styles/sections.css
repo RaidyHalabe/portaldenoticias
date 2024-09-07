@@ -64,4 +64,21 @@ section header {
   img {
     height: 160px;
   }
+
+figure {
+  position: relative;
+}
+
+.content-tag {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+
+ p {
+  margin-top: 8px;
+  font-weight: 900;
+ }
+
+}
+
 }
